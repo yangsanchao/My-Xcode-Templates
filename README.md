@@ -7,6 +7,6 @@ download  `My Cocoa Class.xctemplate` and move it to:
 
 - Templates styles 
 
-[command + n](image/1.png)
+![command + n](image/1.png)
 
-[styles](image/2.png)
+![styles](image/2.png)
